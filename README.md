@@ -1,6 +1,6 @@
 # 🧹 ChatGPT Export Cleaner
 
-A script to parse and clean OpenAI ChatGPT data exports, and convert them into clean Markdown conversations, prompt-completion JSONL files for fine-tuning, and CSV.
+A script to parse and clean OpenAI ChatGPT data exports, and convert them into clean Markdown conversations, JSON file for structured export of all chats and prompt-completion JSONL files for fine-tuning.
 
 ---
 
